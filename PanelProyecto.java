@@ -1,7 +1,6 @@
 //Proyecto Final POO 
-//Georgina Gonz�lez Enr�quez A01632886
-//Juan Andr�s Montero Espira A01228817
-//LuJu 8:30
+//Georgina González Enríquez 
+//Juan Andrés Montero Espina 
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -184,7 +183,7 @@ public class PanelProyecto extends JPanel implements MouseMotionListener, Compon
 					if(this.calif[i].verificarCalif()) {
 						this.puntajeVidas += this.calif[i].getValor();
 						this.repaint();
-					}//cierra if verificación
+					}//cierra if verificaciÃ³n
 
 					else {
 						this.vidas--;
