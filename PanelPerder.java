@@ -1,6 +1,6 @@
 //Proyecto Final POO 
 //Georgina González Enríquez 
-//Juan Andrés Montero Espira 
+//Juan Andrés Montero Espina 
 
 import java.awt.Color;
 import java.awt.Dimension;
