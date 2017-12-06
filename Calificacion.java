@@ -1,7 +1,6 @@
 //Proyecto Final POO 
-//Georgina Gonz·lez EnrÌquez A01632886
-//Juan AndrÈs Montero Espira A01228817
-//LuJu 8:30
+//Georgina Gonz√°lez Enr√≠quez 
+//Juan Andr√©s Montero Espira 
 
 import java.awt.Color;
 import java.awt.Font;
